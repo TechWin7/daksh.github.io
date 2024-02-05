@@ -288,7 +288,7 @@ section{
     z-index: 10;
 }
 
-.rotate-text{
+/* .rotate-text{
     position: absolute;
     top: -13%;
     left: -53px;
@@ -345,7 +345,7 @@ section{
     top: 0;
     left: 50%;
     font-size: 1.2rem;
-}
+} */
 
 /* ==================== About section css code ============================ */
 .about{
